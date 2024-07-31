@@ -1,0 +1,40 @@
+{
+  "noData": {
+    "selectData": "Please select data from the list or",
+    "uploadData": "Upload data",
+    "fileTip": "Please upload a CSV file"
+  },
+  "site": {
+    "title": "Deep-time Data Analysis"
+  },
+  "header": {
+    "gohome": "Go home",
+    "login": "Login",
+    "language": "Switch language",
+    "setting": "Setting"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
+  "dataPanel": {
+    "searchData": "Search data"
+  },
+  "selectedDataBox": {
+    "checkall": "Check all"
+  },
+  "computeBox": {
+    "data": "Data",
+    "age": "Age",
+    "value": "Value",
+    "difference": "Difference：",
+    "rate": "Rate of change："
+  },
+  "btns": {
+    "fullScreen": "Full Screen",
+    "reduction": "Reduction",
+    "share": "Share",
+    "download": "Download"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "noData": {
+    "selectData": "请从列表中选择数据或者",
+    "uploadData": "上传数据",
+    "fileTip": "请上传csv文件"
+  },
+  "site": {
+    "title": "深时数据分析"
+  },
+  "header": {
+    "gohome": "回到首页",
+    "login": "登录",
+    "language": "切换语言",
+    "setting": "设置"
+  },
+  "theme": {
+    "light": "亮色",
+    "dark": "暗色",
+    "system": "系统"
+  },
+  "dataPanel": {
+    "searchData": "搜索数据"
+  },
+  "selectedDataBox": {
+    "checkall": "全选"
+  },
+  "computeBox": {
+    "data": "数据",
+    "age": "年代",
+    "value": "数值",
+    "difference": "差值：",
+    "rate": "变化速率："
+  },
+  "btns": {
+    "fullScreen": "全屏",
+    "reduction": "还原",
+    "share": "分享",
+    "download": "下载"
+  }
+}

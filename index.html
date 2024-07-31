@@ -1,0 +1,13 @@
+<!doctype html>     <!--这是文档类型声明，指明了文档的类型是HTML5-->
+<html lang="en">    <!--HTML文档的根元素，表示这是一个HTML文档，并且指定了文档的语言为英语-->
+  <head>            <!--这个元素包含了文档的元信息，比如字符集、视口设置、页面标题等-->
+    <meta charset="UTF-8" />    <!--指定了文档的字符编码为UTF-8，确保页面能正确地显示各种字符-->
+    <link rel="icon" type="image/svg+xml" href="/logo.svg" />  <!--这是一个链接到网站图标的标签，指定了网站使用的图标类型是SVG格式，路径为/logo.svg-->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />   <!--这个meta标签用于设置移动设备的视口，使页面在各种设备上能正确地显示，并且初始缩放比例为1.0-->
+    <title>Deep-time Data Analysis</title> <!--这是页面的标题，会显示在浏览器的标题栏中-->
+  </head>
+  <body style="margin: 0;">   <!--这是文档的主体部分，包含了网页的内容。在这里，通过内联样式设置了主体的外边距为0，以确保没有额外的空白间隙-->
+    <div id="root"></div>     <!--这是一个空的div元素，通常用于作为JavaScript应用的根元素，在这里可能是用来挂载React或其他JavaScript框架的组件-->
+    <script type="module" src="/src/main.tsx"></script>  <!--这是一个JavaScript脚本的引用，type="module"表明这是一个ES6模块，src="/src/main.tsx"指定了脚本文件的路径。通过模块化的方式引入了页面所需的JavaScript代码，用于构建页面的交互逻辑-->
+  </body>
+</html>

@@ -1,0 +1,16 @@
+{
+  "trailingComma": "all",
+  "useTabs": false,
+  "endOfLine": "auto",
+  "tabWidth": 2,
+  "importOrder": [
+    "<THIRD_PARTY_MODULES>",
+    "^@/(.*)$",
+    "(.css|.scss)$",
+    "^[./]"
+  ],
+  "importOrderTypeImportsToBottom": true,
+  "importOrderSeparation": true,
+  "importOrderSortIndividualImports": true,
+  "plugins": ["@serverless-guru/prettier-plugin-import-order"]
+}
